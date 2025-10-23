@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">promptii</string>
+    <!--
+      IMPORTANT:
+      1. Replace this URL with the actual, live URL where your web app is hosted.
+      2. This must be an HTTPS URL.
+    -->
+    <string name="launch_url">https://promptii.example.com</string>
+</resources>

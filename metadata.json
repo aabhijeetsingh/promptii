@@ -1,0 +1,5 @@
+{
+  "name": "promptii",
+  "description": "promptii helps you transform simple ideas into professional, well-structured prompts for AI models. It interactively asks clarifying questions to build the perfect prompt for your needs.",
+  "requestFramePermissions": []
+}
